@@ -1,3 +1,4 @@
 Hello Im Andrei
 My favorite hobby is coding and playing video games
 Im practicing git
+Nice UWU
